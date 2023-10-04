@@ -1,1 +1,1 @@
-# prj--jamstack-ci-cd-setup
+# JAMStack CI/CD Setup (EJS & Node.js)
